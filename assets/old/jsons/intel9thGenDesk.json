@@ -1,0 +1,21 @@
+{
+    "index": 0,
+    "processorbranding": "Core i9",
+    "model": "9900KS",
+    "coresthreads": "8 (16)",
+    "baseclockrate": "4.0 GHz",
+    "turbo1core": 5.0,
+    "turbo2core": 5.0,
+    "turbo3core": 5.0,
+    "turbo4core": 5.0,
+    "turbo5core": 5.0,
+    "turbo6core": 5.0,
+    "turbo7core": 5.0,
+    "turbo8core": 5.0,
+    "gpu": "UHD 630",
+    "maxgpuclockrate": "1.20\u00a0GHz",
+    "smartcache": "16\u00a0MiB",
+    "tdp": "127 W",
+    "memorysupport": "DDR4-2666 2-channel up to 128 GiB",
+    "priceusd": "a"
+}

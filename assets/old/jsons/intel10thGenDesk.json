@@ -1,0 +1,16 @@
+{
+    "index": 0,
+    "processorbranding": "Core i9",
+    "model": "10900K",
+    "coresthreads": "10 (20)",
+    "baseclockrate": "3.7 GHz",
+    "allcoreturbo": "4.8 GHz",
+    "turboboost2": "5.1 GHz",
+    "turboboostmax3": "5.3 GHz",
+    "gpu": "UHD 630",
+    "maxgpuclockrate": "1.20\u00a0GHz",
+    "smartcache": "20 MiB",
+    "tdp": "125 W",
+    "memorysupport": "DDR4-2933 2-channel up to 128 GiB",
+    "priceusd": "a"
+}

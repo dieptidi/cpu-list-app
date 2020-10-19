@@ -1,0 +1,14 @@
+{
+    "index": 0,
+    "processorbranding": "Core i7Extreme",
+    "model": "3970X",
+    "coresthreads": "6 (12)",
+    "baseclockrate": "3.5\u00a0GHz",
+    "maxturboclockrate": "4.0\u00a0GHz",
+    "tdp": "150\u00a0W",
+    "releasedate": "11\/12\/2012",
+    "price": "aa",
+    "socket": "LGA2011",
+    "memorysupport": "Up to quadchannelDDR3-1600[25]",
+    "codename": "Sandy Bridge"
+}

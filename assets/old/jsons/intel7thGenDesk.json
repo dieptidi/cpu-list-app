@@ -1,0 +1,16 @@
+{
+    "index": 0,
+    "processorbranding": "Core\u00a0i7",
+    "model": "7740X",
+    "coresthreads": "4\u00a0(8)",
+    "baseclockrate": "4.3\u00a0GHz",
+    "turbo1core": 4.5,
+    "turbo2core": 4.5,
+    "turbo4core": 4.5,
+    "gpu": null,
+    "maxgpuclockrate": null,
+    "l3": "8 MB",
+    "tdp": "112\u00a0W",
+    "socket": "LGA 2066",
+    "priceusd": "a"
+}

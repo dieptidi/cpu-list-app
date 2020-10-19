@@ -1,0 +1,17 @@
+{
+    "index": 0,
+    "coresthreads": "8 (16)",
+    "processorbranding": "Core\u00a0i7Extreme",
+    "model": "5960X",
+    "gpu": null,
+    "baseclockrate": "3.0\u00a0GHz",
+    "turboclockrate": "3.5\u00a0GHz",
+    "maxgpuclockrate": null,
+    "l3": "20\u00a0MB",
+    "l4": null,
+    "tdp": "140\u00a0W",
+    "releasedate": "August\u00a029,\u00a02014[86]",
+    "priceusd": "a",
+    "socket": "LGA 2011-v3",
+    "memorysupport": "Up to quadchannelDDR4-2133"
+}
