@@ -1,0 +1,19 @@
+{
+    "index": 0,
+    "coresthreads": "4 (8)",
+    "processorbranding": "Core i7",
+    "model": "6700K",
+    "baseclockrate": "4.0\u00a0GHz",
+    "turbo1core": 4.2,
+    "turbo2core": 4.0,
+    "turbo4core": 4.0,
+    "gpu": "HD\u00a0530",
+    "maxgpuclockrate": "1150\u00a0MHz [86]",
+    "l2": "4 \u00d7 256 KB",
+    "l3": "8\u00a0MB",
+    "l4": null,
+    "tdp": "91\u00a0W",
+    "socket": "LGA 1151",
+    "releasedate": "5-Aug-15",
+    "priceusd": "a"
+}

@@ -1,0 +1,15 @@
+{
+    "index": 0,
+    "processorbranding": "Core i7Extreme",
+    "model": "4960X",
+    "coresthreads": "6 (12)",
+    "baseclockrate": "3.6\u00a0GHz",
+    "turboclockrate": "4.0\u00a0GHz",
+    "maxgpuclockrate": null,
+    "l3": "15\u00a0MB",
+    "tdp": "130\u00a0W",
+    "releasedate": "9\/10\/2013",
+    "priceusd": "a",
+    "socket": "LGA2011",
+    "memorysupport": "Up to quadchannelDDR3-1866"
+}

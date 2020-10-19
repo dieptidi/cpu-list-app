@@ -1,0 +1,19 @@
+{
+    "index": 0,
+    "processorbranding": "Core i7",
+    "model": "8086K",
+    "coresthreads": "6 (12)",
+    "baseclockrate": "4.0\u00a0GHz",
+    "turbo1core": 5.0,
+    "turbo2core": "4.6",
+    "turbo3core": 4.5,
+    "turbo4core": 4.4,
+    "turbo5core": 4.4,
+    "turbo6core": 4.3,
+    "gpu": "UHD630",
+    "maxgpuclockrate": "1.20\u00a0GHz",
+    "l3": "12\u00a0MiB",
+    "tdp": "95\u00a0W *",
+    "memorysupport": "Up to 128 GiB DDR4-2666",
+    "priceusd": "a"
+}
