@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dart:convert';
+import './view/index.dart';
 import './models/index.dart';
 
 class ParseJson extends StatefulWidget {
@@ -14,28 +15,29 @@ class _ParseJsonState extends State<ParseJson> {
       appBar: AppBar(
         title: Text("Local Json"),
       ),
-      body: FutureBuilder(
-        future: DefaultAssetBundle.of(context)
-            .loadString('assets/intel/desktop/iG10Dsk.json'),
-        builder: (context, snapshot) {
-          if (snapshot.hasData) {
-            var _data = jsonDecode(snapshot.data);
-            // print("====data: ${_data['data']}");
-            // print("====data: ${snapshot.data['data'][0]['gpu']}");
-            ExtractData extData = new ExtractData();
-            List<IntelCpu> iGen10 = extData.intelCpuDesk(_data['data']);
-            // List<Intel10thGenDesk> iGen10 = iGen10Parse(_data['data']);
-            // for (var intelGen10 in _data['data']) {
-            //   print("=====Data: ${intelGen10}");
-            //   iGen10.add(intelGen10);
-            // }
-            return _body(iGen10);
-          } else if (snapshot.hasError) {
-            return Text("${snapshot.error}");
-          }
-          return Center(child: CircularProgressIndicator());
-        },
-      ),
+      // body: bodyBuilder(context, "10")
+      // FutureBuilder(
+      //   future: DefaultAssetBundle.of(context)
+      //       .loadString('assets/intel/desktop/iG10Dsk.json'),
+      //   builder: (context, snapshot) {
+      //     if (snapshot.hasData) {
+      //       var _data = jsonDecode(snapshot.data);
+      //       // print("====data: ${_data['data']}");
+      //       // print("====data: ${snapshot.data['data'][0]['gpu']}");
+      //       ExtractData extData = new ExtractData();
+      //       List<IntelCpu> iGen10 = extData.intelCpuDesk(_data['data']);
+      //       // List<Intel10thGenDesk> iGen10 = iGen10Parse(_data['data']);
+      //       // for (var intelGen10 in _data['data']) {
+      //       //   print("=====Data: ${intelGen10}");
+      //       //   iGen10.add(intelGen10);
+      //       // }
+      //       return _body(iGen10);
+      //     } else if (snapshot.hasError) {
+      //       return Text("${snapshot.error}");
+      //     }
+      //     return Center(child: CircularProgressIndicator());
+      //   },
+      // ),
     );
   }
 
